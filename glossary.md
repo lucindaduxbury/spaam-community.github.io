@@ -7,7 +7,7 @@ sidebar_link: false
 I hate acronyms. Here is a list of them. DO NOT USE THEM. Please write them out in full so my acronym-dyslexic brain can cope. Thanks.
 
 ## Programs
-| Acronym   | Actual name          | Short description     | URL (Uniform Resource Locator)        |
+| Acronym   | Actual name          | Short description     | Uniform Resource Locator (URL)       |
 |----------:|:--------------------:|:---------------------:|:-------------------------------------:|
 |metaDMG    |                      |                       |                                       |
 |MALT       | Megan ALignment Tool | High-throughput Metagenomic BLAST like alignment tool | [Website](https://software-ab.cs.uni-tuebingen.de/download/malt/welcome.html)
@@ -19,10 +19,13 @@ I hate acronyms. Here is a list of them. DO NOT USE THEM. Please write them out 
 |MultiQC
 |Metahit
 |MEGAN
-|bwa
+|bwa aln
+bwa mem
 |bowtie
 |filterBAM/bam-filter
 |AMDirt
+BEAST
+
 
 ## Pipelines
 nf-core/eager
@@ -42,8 +45,10 @@ GUNC
 
 ## Misc
 SPAAM
-MAG
+MAG/SMAG
 USER or UDG
 IGV
 sedaDNA
 aeDNA
+SNP
+ANI
