@@ -6,7 +6,7 @@ sidebar_link: false
 
 I hate acronyms. Here is a list of them. DO NOT USE THEM. Please write them out in full so my acronym-dyslexic brain can cope. Thanks. 
 
-## Programs
+## Programs/tools
 | Acronym   | Actual name          | Short description     | Uniform Resource Locator (URL)       |
 |----------:|:--------------------:|:---------------------:|:------------------------------------:|
 |metaDMG   | Metagenomics DaMaGe  | Estimation, quantification and visualization of postmortem damage of single reads, single genomes and metagenomic environmental DNA | [GitHub](https://github.com/metaDMG-dev/metaDMG-cpp) |
@@ -24,7 +24,8 @@ I hate acronyms. Here is a list of them. DO NOT USE THEM. Please write them out 
 |filterBAM/bam-filter
 |AMDirt
 |BEAST
-
+|GTDB-Tk | Genome Taxonomy Database Toolkit | provides objective taxonomic assignments for bacterial and archaeal genomes based on the GTDB | [Paper](https://academic.oup.com/bioinformatics/article/36/6/1925/5626182?login=false) |
+| Kraken
 
 ## Pipelines
 | Acronym   | Actual name          | Short description     | Uniform Resource Locator (URL) |
@@ -34,13 +35,19 @@ I hate acronyms. Here is a list of them. DO NOT USE THEM. Please write them out 
 |nf-core/mag | see MAG |For metagenome assembly, binning and taxonomic classification | [Website](https://nf-co.re/mag/) |
 |HOPS | Heuristic Operations for Pathogen Screening | Automated bacterial screening pipeline for ancient DNA sequences that provides detailed information on species identification and authenticity. | [GitHub](https://github.com/rhuebler/HOPS) |
 
+
 ## Databases
 | Acronym   | Actual name          | Short description     | Uniform Resource Locator (URL) |
 |----------:|:--------------------:|:---------------------:|:-------------------------------|
 |GenBank | |NIH genetic sequence database, an annotated collection of all publicly available DNA sequences | [NIH](https://www.ncbi.nlm.nih.gov/genbank/) |
 |BUSCO |Benchmarking Universal Single-Copy Orthologs |Provides measures for quantitative assessment of genome assembly, gene set, and transcriptome completeness based on evolutionarily informed expectations of gene content from near-universal single-copy orthologs. | [BUSCO](https://busco.ezlab.org/) |
-|GTDB-Tk | Genome Taxonomy Database Toolkit | provides objective taxonomic assignments for bacterial and archaeal genomes based on the GTDB | [Paper](https://academic.oup.com/bioinformatics/article/36/6/1925/5626182?login=false) |
+
 |GUNC | the Genome UNClutterer | A tool that accurately detects and quantifies genome chimerism based on the lineage homogeneity of individual contigs using a genome’s full complement of genes.  |[Paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02393-0) |
+|NCBI
+|HOMD
+|GTDB
+|Silva SSU 
+
 
 ## File formats
 | File Extension   | Actual name          | Short description     |
