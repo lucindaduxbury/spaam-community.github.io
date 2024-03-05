@@ -28,6 +28,9 @@ BEAST
 
 
 ## Pipelines
+| Acronym   | Actual name          | Short description     | Uniform Resource Locator (URL)       |
+|----------:|:--------------------:|:---------------------:|:------------------------------------:|
+| nf-core/eager | nf-core/eager  | | [Website](https://nf-co.re/eager/2.4.7) |
 nf-core/eager
 nf-core/mag
 HOPS
