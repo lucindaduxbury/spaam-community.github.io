@@ -69,3 +69,4 @@ I hate acronyms. Here is a list of them. DO NOT USE THEM. Please write them out 
 |eDNA | environmental DNA | Umbrella term for DNA retrieved from the environment including sediment, water or air.
 |SNP | Single Nucleotide Polymorphism | | |
 |ANI | Average Nucleotide Identity | The average percentage of shared nucleotides between two genomes | [Paper](https://doi.org/10.1073/pnas.0409727102) |
+|NGS | Next-generation sequencing |
