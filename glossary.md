@@ -13,7 +13,7 @@ I hate acronyms. Here is a list of them. DO NOT USE THEM. Please write them out 
 |MALT      | Megan ALignment Tool | High-throughput Metagenomic BLAST-like alignment tool | [Website](https://software-ab.cs.uni-tuebingen.de/download/malt/welcome.html) |
 |HOPS      | Heuristic Operations for Pathogen Screening | Tool for the authentication of ancient DNA | [GitHub](https://github.com/rhuebler/HOPS) |
 |PyDamage  | Python Damage        | Estimates DNA damage for de novo-assembled contigs | [GitHub](https://github.com/maxibor/pydamage) |
-|Fastp | `.fastq` Preprocessor | [Paper](https://doi.org/10.1093/bioinformatics/bty560), [GitHub](https://github.com/OpenGene/fastp) |
+|Fastp | `.fastq` Preprocessor | | [Paper](https://doi.org/10.1093/bioinformatics/bty560), [GitHub](https://github.com/OpenGene/fastp) |
 |FastQC  | Fast Quality Control |
 |MultiQC | | 
 |Metahit
