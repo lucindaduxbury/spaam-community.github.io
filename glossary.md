@@ -13,44 +13,52 @@ I hate acronyms. Here is a list of them. DO NOT USE THEM. Please write them out 
 |MALT      | Megan ALignment Tool | High-throughput Metagenomic BLAST-like alignment tool | [Website](https://software-ab.cs.uni-tuebingen.de/download/malt/welcome.html) |
 |HOPS      | Heuristic Operations for Pathogen Screening | Tool for the authentication of ancient DNA | [GitHub](https://github.com/rhuebler/HOPS) |
 |PyDamage  | Python Damage        | Estimates DNA damage for de novo-assembled contigs | [GitHub](https://github.com/maxibor/pydamage) |
-|
 |Fastp
 |FastQC
 |MultiQC
 |Metahit
 |MEGAN
 |bwa aln
-bwa mem
+|bwa mem
 |bowtie
 |filterBAM/bam-filter
 |AMDirt
-BEAST
+|BEAST
 
 
 ## Pipelines
-nf-core/eager
-nf-core/mag
-HOPS
+| Acronym   | Actual name          | Short description     | Uniform Resource Locator (URL) |
+|----------:|:--------------------:|:---------------------:|:-------------------------------|
+|nf-core | |A community effort to collect a curated set of analysis pipelines built using Nextflow. | [website](https://nf-co.re/) |
+|nf-core/eager |Efficient Ancient GEnome Reconstruction |A scalable and reproducible bioinformatics best-practise processing pipeline for genomic NGS sequencing data, with a focus on ancient DNA (aDNA) data. It is ideal for the (palaeo)genomic analysis of humans, animals, plants, microbes and even microbiomes. |[website](https://nf-co.re/eager/2.5.0) |
+|nf-core/mag | see MAG |For metagenome assembly, binning and taxonomic classification | [website](https://nf-co.re/mag/) |
+|HOPS | Heuristic Operations for Pathogen Screening | Automated bacterial screening pipeline for ancient DNA sequences that provides detailed information on species identification and authenticity. | [GitHub](https://github.com/rhuebler/HOPS) |
 
 ## Databases
-GenBank
-BUSCO
-GTDD
-GUNC
+| Acronym   | Actual name          | Short description     | Uniform Resource Locator (URL) |
+|----------:|:--------------------:|:---------------------:|:-------------------------------|
+|GenBank | |NIH genetic sequence database, an annotated collection of all publicly available DNA sequences | [NIH](https://www.ncbi.nlm.nih.gov/genbank/) |
+|BUSCO |Benchmarking Universal Single-Copy Orthologs |Provides measures for quantitative assessment of genome assembly, gene set, and transcriptome completeness based on evolutionarily informed expectations of gene content from near-universal single-copy orthologs. | [BUSCO](https://busco.ezlab.org/) |
+|GTDB-Tk | Genome Taxonomy Database Toolkit | provides objective taxonomic assignments for bacterial and archaeal genomes based on the GTDB | [paper](https://academic.oup.com/bioinformatics/article/36/6/1925/5626182?login=false) |
+|GUNC | the Genome UNClutterer | A tool that accurately detects and quantifies genome chimerism based on the lineage homogeneity of individual contigs using a genome’s full complement of genes.  |[paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02393-0) |
 
 ## File formats
-.fastq
-.fasta
-.bam/.sam/.cram
-.bai
+| File Extension   | Actual name          | Short description     |
+|----------:|:--------------------:|:---------------------:|
+|`.fastq`/`.fq` | FastQ |  
+|`.fasta` |
+|`.bam`/`.sam`/`.cram` | Binary Alignment Map or Sequence Alignment Map or Compressed Reference-oriented Alignment Map | files contain sequenced reads mapped to a reference |
+|`.bai` | BAM index file | Index file that often accompanies a `.bam` |
 
 ## Misc
-SPAAM
-MAG/SMAG
-USER or UDG
-IGV
-sedaDNA
-aeDNA
-eDNA
-SNP
-ANI
+| Acronym   | Actual name          | Short description     |
+|----------:|:--------------------:|:---------------------:|
+|SPAAM | Standards, Precautions, and Advances in Ancient Metagenomics | An international and open community of ancient metagenomics researchers. |
+|MAG/SMAG | Metagenome Assembled Genome or ? | Microbial genomes reconstructed from metagenomic data |
+|USER or UDG | 
+|IGV |
+|sedaDNA | Sedimentary ancient DNA | ancient DNA retrieved from sediment samples |  |
+|aeDNA | ancient environmental DNA | umbrella term for ancient DNA retrieved from the environment including sediment and water. Doesn't include DNA from a deceased organism specimen | |
+|eDNA | environmental DNA | umbrella term for DNA retrieved from the environment including sediment, water or air.
+|SNP | Single Nucleotide Polymorphism | | |
+|ANI |
