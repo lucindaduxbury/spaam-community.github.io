@@ -29,9 +29,9 @@ I hate acronyms. Here is a list of them. DO NOT USE THEM. Please write them out 
 ## Pipelines
 | Acronym   | Actual name          | Short description     | Uniform Resource Locator (URL) |
 |----------:|:--------------------:|:---------------------:|:-------------------------------|
-|nf-core | |A community effort to collect a curated set of analysis pipelines built using Nextflow. | [website](https://nf-co.re/) |
-|nf-core/eager |Efficient Ancient GEnome Reconstruction |A scalable and reproducible bioinformatics best-practise processing pipeline for genomic NGS sequencing data, with a focus on ancient DNA (aDNA) data. It is ideal for the (palaeo)genomic analysis of humans, animals, plants, microbes and even microbiomes. |[website](https://nf-co.re/eager/2.5.0) |
-|nf-core/mag | see MAG |For metagenome assembly, binning and taxonomic classification | [website](https://nf-co.re/mag/) |
+|nf-core | |A community effort to collect a curated set of analysis pipelines built using Nextflow. | [Website](https://nf-co.re/) |
+|nf-core/eager |Efficient Ancient GEnome Reconstruction |A scalable and reproducible bioinformatics best-practise processing pipeline for genomic NGS sequencing data, with a focus on ancient DNA (aDNA) data. It is ideal for the (palaeo)genomic analysis of humans, animals, plants, microbes and even microbiomes. |[Website](https://nf-co.re/eager/2.5.0) |
+|nf-core/mag | see MAG |For metagenome assembly, binning and taxonomic classification | [Website](https://nf-co.re/mag/) |
 |HOPS | Heuristic Operations for Pathogen Screening | Automated bacterial screening pipeline for ancient DNA sequences that provides detailed information on species identification and authenticity. | [GitHub](https://github.com/rhuebler/HOPS) |
 
 ## Databases
@@ -39,8 +39,8 @@ I hate acronyms. Here is a list of them. DO NOT USE THEM. Please write them out 
 |----------:|:--------------------:|:---------------------:|:-------------------------------|
 |GenBank | |NIH genetic sequence database, an annotated collection of all publicly available DNA sequences | [NIH](https://www.ncbi.nlm.nih.gov/genbank/) |
 |BUSCO |Benchmarking Universal Single-Copy Orthologs |Provides measures for quantitative assessment of genome assembly, gene set, and transcriptome completeness based on evolutionarily informed expectations of gene content from near-universal single-copy orthologs. | [BUSCO](https://busco.ezlab.org/) |
-|GTDB-Tk | Genome Taxonomy Database Toolkit | provides objective taxonomic assignments for bacterial and archaeal genomes based on the GTDB | [paper](https://academic.oup.com/bioinformatics/article/36/6/1925/5626182?login=false) |
-|GUNC | the Genome UNClutterer | A tool that accurately detects and quantifies genome chimerism based on the lineage homogeneity of individual contigs using a genome’s full complement of genes.  |[paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02393-0) |
+|GTDB-Tk | Genome Taxonomy Database Toolkit | provides objective taxonomic assignments for bacterial and archaeal genomes based on the GTDB | [Paper](https://academic.oup.com/bioinformatics/article/36/6/1925/5626182?login=false) |
+|GUNC | the Genome UNClutterer | A tool that accurately detects and quantifies genome chimerism based on the lineage homogeneity of individual contigs using a genome’s full complement of genes.  |[Paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02393-0) |
 
 ## File formats
 | File Extension   | Actual name          | Short description     |
@@ -57,8 +57,8 @@ I hate acronyms. Here is a list of them. DO NOT USE THEM. Please write them out 
 |MAG/SMAG | Metagenome Assembled Genome or ? | Microbial genomes reconstructed from metagenomic data |
 |USER or UDG | 
 |IGV |
-|sedaDNA | Sedimentary ancient DNA | ancient DNA retrieved from sediment samples |  |
-|aeDNA | ancient environmental DNA | umbrella term for ancient DNA retrieved from the environment including sediment and water. Doesn't include DNA from a deceased organism specimen | |
-|eDNA | environmental DNA | umbrella term for DNA retrieved from the environment including sediment, water or air.
+|sedaDNA | Sedimentary ancient DNA | Ancient DNA retrieved from sediment samples |  |
+|aeDNA | ancient environmental DNA | Umbrella term for ancient DNA retrieved from the environment including sediment and water. Doesn't include DNA from a deceased organism specimen | |
+|eDNA | environmental DNA | Umbrella term for DNA retrieved from the environment including sediment, water or air.
 |SNP | Single Nucleotide Polymorphism | | |
-|ANI |
+|ANI | Average Nucleotide Identity | The average percentage of shared nucleotides between two genomes | [Paper](https://doi.org/10.1073/pnas.0409727102) |
