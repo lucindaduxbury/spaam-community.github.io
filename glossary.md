@@ -47,6 +47,7 @@ I hate acronyms. Here is a list of them. DO NOT USE THEM. Please write them out 
 |HOMD
 |GTDB
 |Silva SSU 
+|PR2 | Protist Ribosomal Reference | Three interconnected 18S rRNA databases, particularly useful for metabarcoding | [Website](https://pr2-database.org/)
 
 
 ## File formats
