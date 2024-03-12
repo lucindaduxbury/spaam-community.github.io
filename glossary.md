@@ -41,13 +41,13 @@ I hate acronyms. Here is a list of them. DO NOT USE THEM. Please write them out 
 |----------:|:--------------------:|:---------------------:|:-------------------------------|
 |GenBank | |NIH genetic sequence database, an annotated collection of all publicly available DNA sequences | [NIH](https://www.ncbi.nlm.nih.gov/genbank/) |
 |BUSCO |Benchmarking Universal Single-Copy Orthologs |Provides measures for quantitative assessment of genome assembly, gene set, and transcriptome completeness based on evolutionarily informed expectations of gene content from near-universal single-copy orthologs. | [BUSCO](https://busco.ezlab.org/) |
-
+|PR<sup>2</sup> | Protist Ribosomal Reference | Three interconnected 18S rRNA databases, particularly useful for metabarcoding | [Website](https://pr2-database.org/) |
 |GUNC | the Genome UNClutterer | A tool that accurately detects and quantifies genome chimerism based on the lineage homogeneity of individual contigs using a genome’s full complement of genes.  |[Paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02393-0) |
 |NCBI
 |HOMD
 |GTDB
 |Silva SSU 
-|PR2 | Protist Ribosomal Reference | Three interconnected 18S rRNA databases, particularly useful for metabarcoding | [Website](https://pr2-database.org/)
+
 
 
 ## File formats
